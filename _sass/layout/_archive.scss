@@ -52,7 +52,7 @@
 .page__content {
 
   .archive__item-title {
-    margin-top: 1em;
+    margin-top: 0.5em;
     border-bottom: none;
   }
 }
@@ -90,6 +90,7 @@
    ========================================================================== */
 
 .list__item {
+  margin-bottom: 0;
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;
   }
@@ -113,14 +114,14 @@
    ========================================================================== */
 
 .grid__item {
-  margin-bottom: 2em;
+  margin-bottom: 0.5em;
 
   .page__meta {
     margin: 0 0 4px;
   }
 
   .archive__item-title {
-    margin-top: 0.5em;
+    margin-top: 0.25em;
     font-size: $type-size-5;
   }
 

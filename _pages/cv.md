@@ -9,56 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
+Please kindly find my full [resume]({{ base_path }}/files/Zehua_WU_CV.pdf) here.
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Aug 2024 - May 2026 : M.S. Student of Electrical Engineering, University of Pennsylvania
+<!-- * Aug 2020 - Jul 2024 : B.E. Student of Automation, Southeast University -->
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Professional experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<!-- * Research Assistant
+  * University of Tennessee, Knoxville
+  * date: May 2025 - Present
+  * Worked on augmented contact-aware trowel-brick manipulation via imitation learning
+  * Advisor: Prof. Fei Liu
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Research Assistant
+  * Southeast University
+  * date: May 2023 - July 2024
+  * Worked on kinematic parameter identification and positioning compensation for industrial robots
+  * Advisor: Prof. Guifang Qiao -->
+### Research Assistant
+*University of Tennessee, Knoxville | May 2025 - Present*
+* Worked on augmented contact-aware trowel-brick manipulation via imitation learning.
+* Advisor: Prof. Fei Liu
+
+### Research Assistant
+*Southeast University | May 2023 - July 2024*
+* Worked on kinematic parameter identification and positioning compensation for industrial robots.
+* Advisor: Prof. Guifang Qiao
+
+
+Honors & Awards
+=====
+* 2024, Third Prize of the Jiangsu Province Outstanding Undergraduate Thesis Award
+* 2024, Outstanding Graduates of Southeast University
