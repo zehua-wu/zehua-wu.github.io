@@ -31,8 +31,14 @@ Professional experience
   * date: May 2023 - July 2024
   * Worked on kinematic parameter identification and positioning compensation for industrial robots
   * Advisor: Prof. Guifang Qiao -->
+
+### Research Software Developer
+*University of Pennsylvania | Dec 2025 - Present*
+* Building TissueLab — an agentic AI platform for medical image analysis, enabling autonomous perception, reasoning, and decision support in biomedical research.
+* Advisor: Prof. Zhi Huang
+
 ### Research Assistant
-*University of Tennessee, Knoxville | May 2025 - Present*
+*University of Tennessee, Knoxville | May 2025 - Aug 2025
 * Worked on augmented contact-aware trowel-brick manipulation via imitation learning.
 * Advisor: Prof. Fei Liu
 
