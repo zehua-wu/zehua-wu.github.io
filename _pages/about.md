@@ -14,6 +14,7 @@ Hi, I'm Zehua Wu! I am currently a second-year master's student in the Electrica
 
 News
 Dec 2025: Started as a Research Software Developer at Huang Lab, Penn Medicine (Perelman School of Medicine), University of Pennsylvania.
+May 2025: Started as a Research Assistant at AURAS Lab, University of Tennessee, Knoxville.
 
 <!-- 
 
