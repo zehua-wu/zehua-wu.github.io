@@ -12,8 +12,8 @@ Hi, I'm Zehua Wu! I am currently a second-year master's student in the Electrica
 
 
 
-News
-Dec 2025: Started as a Research Software Developer at Huang Lab at Penn Medicine, under the supervision of Prof. Zhi Huang.
+## News
+Dec 2025: Started as a Research Software Developer at Huang Lab at Penn Medicine, under the supervision of Prof. Zhi Huang.  <br>
 May 2025: Started as a Research Assistant at AURAS Lab at University of Tennessee, Knoxville till September, under the supervision of Prof. Fei Liu.
 
 <!-- 
